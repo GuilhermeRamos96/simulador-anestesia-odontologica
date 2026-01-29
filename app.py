@@ -419,4 +419,6 @@ st.markdown("""
 Este aplicativo combina um simulador do mecanismo de ação dos anestésicos locais e uma calculadora de dose máxima em uma única interface.
 
 Desenvolvido para fins educacionais e de referência clínica.
+
+Autoria: Guilherme Veloso Ramos e Stephany Gabrielle Chaves Santos
 """)
